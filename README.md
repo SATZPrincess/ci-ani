@@ -1,1 +1,2 @@
 ci-ani
+test phpinfo();
